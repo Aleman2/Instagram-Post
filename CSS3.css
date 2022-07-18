@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    background-color: rgb(160, 155, 155);
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pie-final {
+    margin-bottom: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.arriba {
+    display: inline-flex;
+}
+
+#htmderecha {
+    padding: 10px;
+    float: right;
+}
+
+.container {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+
+img {
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+}
+
+#htm {
+    padding: 10px;
+}
+
+#htm3 {
+    float: left;
+    padding: 10px;
+}
+
+#htm2 {
+    float: left;
+}
+
+.iconos {
+    padding-top: 20px !important;
+}
+
+.pabajo {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.encabezado {
+    margin-top: 50px;
+    margin-bottom: 1px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+
+.pie {
+    width: 600px;
+    margin-top: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+
+#box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
